@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71071" started-at="2021-02-02T20:20:13 IST" finished-at="2021-02-02T20:21:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71071" started-at="2021-02-02T20:20:13 IST" finished-at="2021-02-02T20:21:24 IST">
+      <class name="DemotestngDemo.qsp.Demo1">
+        <test-method status="PASS" signature="beforeM()[pri:0, instance:DemotestngDemo.qsp.Demo1@61f8bee4]" name="beforeM" is-config="true" duration-ms="20026" started-at="2021-02-02T20:20:13 IST" finished-at="2021-02-02T20:20:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeM -->
+        <test-method status="PASS" signature="tc_1()[pri:0, instance:DemotestngDemo.qsp.Demo1@61f8bee4]" name="tc_1" duration-ms="31273" started-at="2021-02-02T20:20:33 IST" finished-at="2021-02-02T20:21:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_1 -->
+        <test-method status="PASS" signature="afterM()[pri:0, instance:DemotestngDemo.qsp.Demo1@61f8bee4]" name="afterM" is-config="true" duration-ms="238" started-at="2021-02-02T20:21:04 IST" finished-at="2021-02-02T20:21:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterM -->
+        <test-method status="PASS" signature="beforeM()[pri:0, instance:DemotestngDemo.qsp.Demo1@61f8bee4]" name="beforeM" is-config="true" duration-ms="10250" started-at="2021-02-02T20:21:05 IST" finished-at="2021-02-02T20:21:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeM -->
+        <test-method status="PASS" signature="tc_2()[pri:0, instance:DemotestngDemo.qsp.Demo1@61f8bee4]" name="tc_2" duration-ms="9011" started-at="2021-02-02T20:21:15 IST" finished-at="2021-02-02T20:21:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_2 -->
+        <test-method status="PASS" signature="afterM()[pri:0, instance:DemotestngDemo.qsp.Demo1@61f8bee4]" name="afterM" is-config="true" duration-ms="190" started-at="2021-02-02T20:21:24 IST" finished-at="2021-02-02T20:21:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterM -->
+      </class> <!-- DemotestngDemo.qsp.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
